@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercise1_Python/Exercise1_Python.iml" filepath="$PROJECT_DIR$/Exercise1_Python/Exercise1_Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FSAD_LAB_JWT.iml" filepath="$PROJECT_DIR$/.idea/FSAD_LAB_JWT.iml" />
+    </modules>
+  </component>
+</project>
